@@ -12,5 +12,4 @@ six==1.10.0
 txaio==2.0.4
 txredisapi==1.3
 ujson==1.33
-wsgiref==0.1.2
 zope.interface==4.1.3
